@@ -1,0 +1,77 @@
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\ASP.NET CompanyEmployees SQL Server EF 6.xx.dll.config
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\ASP.NET CompanyEmployees SQL Server EF 6.xx.dll
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\ASP.NET CompanyEmployees SQL Server EF 6.xx.pdb
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\roslyn\csc.exe
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\roslyn\csc.exe.config
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\roslyn\csc.rsp
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\roslyn\csi.exe
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\roslyn\csi.exe.config
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\roslyn\csi.rsp
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\roslyn\System.AppContext.dll
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\roslyn\System.Console.dll
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\roslyn\System.IO.Compression.dll
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\roslyn\System.IO.Pipes.dll
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\roslyn\System.Security.Claims.dll
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\roslyn\System.Threading.Thread.dll
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\roslyn\System.ValueTuple.dll
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\roslyn\System.Xml.XPath.dll
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\roslyn\vbc.exe
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\roslyn\vbc.exe.config
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\roslyn\vbc.rsp
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\roslyn\VBCSCompiler.exe
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\EntityFramework.dll
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\EntityFramework.SqlServer.dll
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\Newtonsoft.Json.dll
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\System.Net.Http.Formatting.dll
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\System.Web.Http.dll
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\System.Web.Http.WebHost.dll
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\EntityFramework.xml
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\EntityFramework.SqlServer.xml
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\Newtonsoft.Json.xml
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\System.Net.Http.Formatting.xml
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\System.Web.Http.xml
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\System.Web.Http.WebHost.xml
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\ru\System.Web.Http.resources.dll
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\obj\Debug\ASP.NET CompanyEmployees SQL Server EF 6.xx.csprojAssemblyReference.cache
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\obj\Debug\ASP.NET CompanyEmployees SQL Server EF 6.xx.csproj.CoreCompileInputs.cache
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\obj\Debug\ASP.NET CompanyEmployees SQL Server EF 6.xx.csproj.CopyComplete
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\obj\Debug\ASP.NET CompanyEmployees SQL Server EF 6.xx.dll
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\Lesson8\ASP.NET CompanyEmployees SQL Server EF 6.xx\obj\Debug\ASP.NET CompanyEmployees SQL Server EF 6.xx.pdb
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\ASP.NET- MS-SQL-Server-EF-DB-Service-Elementary\ASP.NET WebAPI\obj\Debug\ASP.NET CompanyEmployees SQL Server EF 6.xx.dll
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\ASP.NET- MS-SQL-Server-EF-DB-Service-Elementary\ASP.NET WebAPI\obj\Debug\ASP.NET CompanyEmployees SQL Server EF 6.xx.pdb
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Task\ASP.NET WebAPI\obj\Debug\ASP.NET CompanyEmployees SQL Server EF 6.xx.dll
+C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Task\ASP.NET WebAPI\obj\Debug\ASP.NET CompanyEmployees SQL Server EF 6.xx.pdb
