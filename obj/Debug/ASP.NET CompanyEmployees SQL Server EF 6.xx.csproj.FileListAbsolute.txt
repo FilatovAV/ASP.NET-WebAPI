@@ -75,3 +75,39 @@ C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\ASP.NET
 C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Home\ASP.NET- MS-SQL-Server-EF-DB-Service-Elementary\ASP.NET WebAPI\obj\Debug\ASP.NET CompanyEmployees SQL Server EF 6.xx.pdb
 C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Task\ASP.NET WebAPI\obj\Debug\ASP.NET CompanyEmployees SQL Server EF 6.xx.dll
 C:\Users\GEOBRIDGE\Desktop\GEEK BRAINS\C#\Уровень 2\Lesson 8\Task\ASP.NET WebAPI\obj\Debug\ASP.NET CompanyEmployees SQL Server EF 6.xx.pdb
+C:\Users\filatov.a\Desktop\ASP.NET-WebAPI-SQL-Server-EF6.x\obj\Debug\ASP.NET CompanyEmployees SQL Server EF 6.xx.csproj.CoreCompileInputs.cache
+C:\Users\filatov.a\Desktop\ASP.NET-WebAPI-SQL-Server-EF6.x\bin\ASP.NET CompanyEmployees SQL Server EF 6.xx.dll.config
+C:\Users\filatov.a\Desktop\ASP.NET-WebAPI-SQL-Server-EF6.x\bin\ASP.NET CompanyEmployees SQL Server EF 6.xx.dll
+C:\Users\filatov.a\Desktop\ASP.NET-WebAPI-SQL-Server-EF6.x\bin\ASP.NET CompanyEmployees SQL Server EF 6.xx.pdb
+C:\Users\filatov.a\Desktop\ASP.NET-WebAPI-SQL-Server-EF6.x\bin\EntityFramework.dll
+C:\Users\filatov.a\Desktop\ASP.NET-WebAPI-SQL-Server-EF6.x\bin\EntityFramework.SqlServer.dll
+C:\Users\filatov.a\Desktop\ASP.NET-WebAPI-SQL-Server-EF6.x\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\filatov.a\Desktop\ASP.NET-WebAPI-SQL-Server-EF6.x\bin\Newtonsoft.Json.dll
+C:\Users\filatov.a\Desktop\ASP.NET-WebAPI-SQL-Server-EF6.x\bin\System.Net.Http.dll
+C:\Users\filatov.a\Desktop\ASP.NET-WebAPI-SQL-Server-EF6.x\bin\System.Net.Http.Formatting.dll
+C:\Users\filatov.a\Desktop\ASP.NET-WebAPI-SQL-Server-EF6.x\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\filatov.a\Desktop\ASP.NET-WebAPI-SQL-Server-EF6.x\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\filatov.a\Desktop\ASP.NET-WebAPI-SQL-Server-EF6.x\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\filatov.a\Desktop\ASP.NET-WebAPI-SQL-Server-EF6.x\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\filatov.a\Desktop\ASP.NET-WebAPI-SQL-Server-EF6.x\bin\System.Web.Helpers.dll
+C:\Users\filatov.a\Desktop\ASP.NET-WebAPI-SQL-Server-EF6.x\bin\System.Web.Http.dll
+C:\Users\filatov.a\Desktop\ASP.NET-WebAPI-SQL-Server-EF6.x\bin\System.Web.Http.WebHost.dll
+C:\Users\filatov.a\Desktop\ASP.NET-WebAPI-SQL-Server-EF6.x\bin\System.Web.Razor.dll
+C:\Users\filatov.a\Desktop\ASP.NET-WebAPI-SQL-Server-EF6.x\bin\System.Web.WebPages.Deployment.dll
+C:\Users\filatov.a\Desktop\ASP.NET-WebAPI-SQL-Server-EF6.x\bin\System.Web.WebPages.dll
+C:\Users\filatov.a\Desktop\ASP.NET-WebAPI-SQL-Server-EF6.x\bin\System.Web.WebPages.Razor.dll
+C:\Users\filatov.a\Desktop\ASP.NET-WebAPI-SQL-Server-EF6.x\bin\EntityFramework.xml
+C:\Users\filatov.a\Desktop\ASP.NET-WebAPI-SQL-Server-EF6.x\bin\EntityFramework.SqlServer.xml
+C:\Users\filatov.a\Desktop\ASP.NET-WebAPI-SQL-Server-EF6.x\bin\Newtonsoft.Json.xml
+C:\Users\filatov.a\Desktop\ASP.NET-WebAPI-SQL-Server-EF6.x\bin\System.Net.Http.Formatting.xml
+C:\Users\filatov.a\Desktop\ASP.NET-WebAPI-SQL-Server-EF6.x\bin\System.Web.Helpers.xml
+C:\Users\filatov.a\Desktop\ASP.NET-WebAPI-SQL-Server-EF6.x\bin\System.Web.Http.xml
+C:\Users\filatov.a\Desktop\ASP.NET-WebAPI-SQL-Server-EF6.x\bin\System.Web.Http.WebHost.xml
+C:\Users\filatov.a\Desktop\ASP.NET-WebAPI-SQL-Server-EF6.x\bin\System.Web.Razor.xml
+C:\Users\filatov.a\Desktop\ASP.NET-WebAPI-SQL-Server-EF6.x\bin\System.Web.WebPages.xml
+C:\Users\filatov.a\Desktop\ASP.NET-WebAPI-SQL-Server-EF6.x\bin\System.Web.WebPages.Deployment.xml
+C:\Users\filatov.a\Desktop\ASP.NET-WebAPI-SQL-Server-EF6.x\bin\System.Web.WebPages.Razor.xml
+C:\Users\filatov.a\Desktop\ASP.NET-WebAPI-SQL-Server-EF6.x\obj\Debug\ASP.NET CompanyEmployees SQL Server EF 6.xx.csproj.CopyComplete
+C:\Users\filatov.a\Desktop\ASP.NET-WebAPI-SQL-Server-EF6.x\obj\Debug\ASP.NET CompanyEmployees SQL Server EF 6.xx.dll
+C:\Users\filatov.a\Desktop\ASP.NET-WebAPI-SQL-Server-EF6.x\obj\Debug\ASP.NET CompanyEmployees SQL Server EF 6.xx.pdb
+C:\Users\filatov.a\Desktop\ASP.NET-WebAPI-SQL-Server-EF6.x\obj\Debug\ASP.NET CompanyEmployees SQL Server EF 6.xx.csprojAssemblyReference.cache
