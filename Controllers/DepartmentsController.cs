@@ -95,6 +95,7 @@ namespace ASP.NET_CompanyEmployees_SQL_Server_EF_6.xx.Controllers
                 return NotFound();
             }
 
+            db.Employee.Load(); //Загружаем всех сотрудников для каскадного удаления
             db.Department.Remove(department);
             db.SaveChanges();
 

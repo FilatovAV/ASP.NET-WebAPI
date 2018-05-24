@@ -3,6 +3,11 @@ using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
 using System.Web;
+using System.Data.Entity.ModelConfiguration;
+
+//using System.Windows.Navigation;
+
+
 
 
 namespace ASP.NET_CompanyEmployees_SQL_Server_EF_6.xx.Models
